@@ -1,4 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+.hide-on-scroll { visibility: visible; }
+.hide-on-scroll.shown { visibility: hidden; }
+
+
 p {
 	font-weight: 200;
 }
